@@ -14,7 +14,7 @@ learning code on Artificial Intelligence  a modern approach chapter 5
 --------------------完成fast AI -----------------------
 
 ### [终局搜索(算杀）](https://github.com/yixuaz/GomokuAI/blob/main/%E5%AF%B9%E6%8A%97%E6%90%9C%E7%B4%A2%E5%92%8C%E5%8D%9A%E5%BC%88%20-%20%E7%AE%97%E6%9D%80.md)
-### 查表， Zobrist 缓存
+### [查表， Zobrist 缓存](https://github.com/yixuaz/GomokuAI/blob/main/%E7%BC%93%E5%AD%98%E4%B8%8E%E6%9F%A5%E8%A1%A8.md)
 TODO
 ### 蒙特卡罗树搜索
 TODO
